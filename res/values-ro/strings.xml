@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CititorDeStiri</string>
+    <string name="action_settings">Setari</string>
+    <string name="welcome">Bine ati venit in cititorul nostru de stiri</string>
+
+</resources>
